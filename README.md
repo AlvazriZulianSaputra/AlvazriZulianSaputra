@@ -26,7 +26,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### **Backend Development**
-![HTML](https://img.shields.io/w3c-validation/:parser) 
+![NodeJS](https://img.shields.io/badge/Html-6DA55F?style=for-the-badge&logo=HTML&logoColor=white) 
 
 
 ### **Tools and Platforms**
