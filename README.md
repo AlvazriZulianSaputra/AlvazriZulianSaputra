@@ -47,10 +47,8 @@
 
 <h2 align="left">📫 Connect with Me:</h2>
 <div align="left">
-  <a href="https://www.linkedin.com/in/alvazriusername">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://discord.com/users/alvazriusername">
+  
+  <a href="https://discord.com/channels/alvazriusername">
     <img src="https://img.shields.io/badge/Discord-%2371B7E6.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://wa.me/alvazriusername">
