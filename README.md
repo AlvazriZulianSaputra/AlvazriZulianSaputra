@@ -1,12 +1,5 @@
-<div align="center">
-  <img src="https://github.com/chaali03/chaali03/blob/main/apalah/Chill Mario.gif" alt="Coding GIF" width="900" height="420" /> <!-- Atur panjang dan tinggi sesuai kebutuhan -->
-</div>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zaidan!;" />
-</h1>
 
-<div style="text-align: center; margin-top: 20px;">
-  <h1>🌟 Hello World! I'm Zaidan 👨‍💻</h1>
+  <h1>🌟 Hello World! I'm Alvazri </h1>
   <p> 🔧 A <strong>passionate Web Developer</strong>, lifelong learner, and innovator. </p>
   <p>  💡 Turning ideas into reality, one line of code at a time.</p>
   
@@ -19,9 +12,9 @@
 ---
 
 ### 🛠 **About Me:**
-- 🌍 I'm **Zaidan**, a **web developer** from **Indonesia**.
+- 🌍 I'm **Alvazri**, a **web developer** from **Indonesia**.
 - 🎓 Currently working as a **web developer** and exploring various web technologies.
-- 💻 **Web Developer** with a keen interest in **UI/UX design**, **JavaScript** frameworks (React, Node.js), and **cloud development**.
+- 💻 **Web Developer** with a keen interest in **UI/UX design**
 - 🚀 I enjoy creating **dynamic web applications**, **optimizing performance**, and **scaling projects** to meet user needs.
 - 🖥️ Passionate about **clean code**, **automation**, and contributing to open-source projects.
 
