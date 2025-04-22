@@ -48,7 +48,7 @@
 <h2 align="left">📫 Connect with Me:</h2>
 <div align="left">
   
-  <a href="https://discord.com/channels/@me">
+  <a href="https://discord.com/channels/saputra_azs">
     <img src="https://img.shields.io/badge/Discord-%2371B7E6.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://wa.me/alvazriusername">
